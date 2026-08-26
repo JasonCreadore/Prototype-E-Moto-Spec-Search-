@@ -1,0 +1,6 @@
+{
+  "name": "E-Moto Spec Search",
+  "description": "Natural language and parametric specification search tool for electric dirt bikes powered by Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
